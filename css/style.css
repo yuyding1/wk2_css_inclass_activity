@@ -1,0 +1,8 @@
+h1 {
+    background-color:yellow; color:blue; font-size: large; font-style: italic; font-weight: 500; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {background-color:lightyellow; font-size: medium; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    background-color:lightgray
+}
